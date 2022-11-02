@@ -1,0 +1,29 @@
+.google-btn{
+    padding: 7px 45px;
+    border: none;
+    font-weight: 500;
+    font-size: 24px;
+    color: #646464;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.google-icon{
+    font-size: 24px;
+    margin-bottom: 3px;
+}
+.login-form{
+    padding: 40px 50px;
+}
+.login-box{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-field{
+    width: 100%;
+    margin-bottom: 15px !important;
+}

@@ -1,0 +1,17 @@
+// video: 45min;
+
+@mixin mobile {
+    @media screen and (max-width: 480px) {
+        @content;
+    }
+}
+@mixin tablet {
+    @media screen and (max-width: 480px) {
+        @content;
+    }
+}
+@mixin laptop {
+    @media screen and (max-width: 480px) {
+        @content;
+    }
+}
